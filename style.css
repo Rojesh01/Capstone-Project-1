@@ -11,64 +11,6 @@ h1{
     text-align: center;
     text-decoration: dotted;
 }
-
-
-p {
-    font-weight: normal;
-}
-
-img{
-    height:box-sizing;
-    width: box-sizing;
-    background-attachment: fixed;
-}
-*{
-font-weight: lighter;
-background-color: beige;
-color:rgb(133, 32, 32);
-}
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-}
-
-h1, h2, h3, h4, p {
-    margin-bottom: 15px;
-}
-
-h1 {
-    color: #333;
-    text-align: center;
-}
-
-h2 {
-    color: #333;
-    text-transform: uppercase;
-}
-
-.color {
-    color: #6c757d;
-}
-
-#back {
-    background-color: #e9ecef;
-    padding: 10px;
-}
-
-img {
-    width: 100%;
-    height: auto;
-}
-
-hr {
-    border: 0;
-    height: 1px;
-    background: #333;
-    margin-bottom: 20px;
-}
-
 a {
     color: #007bff;
     text-decoration: none;
@@ -92,4 +34,19 @@ h2:hover {
     background-color: #007bff;
     color: white;
 }
+
+p {
+    font-weight: normal;
+}
+img{
+    height:box-sizing;
+    width: box-sizing;
+    background-attachment: fixed;
+}
+*{
+font-weight: lighter;
+background-color: beige;
+color:rgb(133, 32, 32);
+}
+
 
