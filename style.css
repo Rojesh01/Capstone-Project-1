@@ -1,0 +1,30 @@
+*{
+    box-sizing:border-box ;
+}
+
+h1{
+    text-align: center;
+    color: rgb(183, 32, 32);
+}
+.color{
+    background-color: burlywood;
+    text-align: center;
+    text-decoration: dotted;
+}
+
+
+p {
+    font-weight: normal;
+}
+
+img{
+    height:box-sizing;
+    width: box-sizing;
+    background-attachment: fixed;
+}
+*{
+font-weight: lighter;
+background-color: beige;
+color:rgb(133, 32, 32);
+}
+
