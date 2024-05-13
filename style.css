@@ -39,8 +39,8 @@ p {
     font-weight: normal;
 }
 img{
-    height:box-sizing;
-    width: box-sizing;
+    height:box-600px;
+    width: 555px;
     background-attachment: fixed;
 }
 *{
